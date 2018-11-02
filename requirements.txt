@@ -1,0 +1,5 @@
+tornado==5.1.1
+datetime==2.11.1
+pygame==1.9.4
+gtts==2.0.1
+# tempfile==3.3

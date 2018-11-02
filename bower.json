@@ -1,0 +1,28 @@
+{
+  "name": "ws_test",
+  "description": "",
+  "main": "annyang.js",
+  "authors": [
+    "김천규 <redtree941@naver.com>"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^3.3.1",
+    "bootstrap": "v4.0.0-alpha.6",
+    "annyang": "^2.6.1"
+  },
+  "install": {
+    "path": {
+      "css": "static/css",
+      "js": "static/js"
+    }
+  }
+}

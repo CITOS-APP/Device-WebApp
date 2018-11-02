@@ -1,0 +1,2 @@
+virtualenv -p python3 k8s_env
+source k8s_env/bin/activate

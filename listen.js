@@ -114,7 +114,7 @@ $(document).ready(function() {
     });
     $('#exampleModal').on('show.bs.modal', function() {
         // do something when the modal is shown
-        // console.log($("#chatLog"));
+        console.log($("#chatLog"));
     });
 
     $('#exampleModal').on('hidden.bs.modal', function () {
